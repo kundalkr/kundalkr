@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### Hello World, I'm kundal kumar 👋
+### hi, I'm kundal kumar 👋
 
  <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 

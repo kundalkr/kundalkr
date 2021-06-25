@@ -1,10 +1,7 @@
-<!-- @format -->
 
-<<<<<<< HEAD
 ### Hi, I'm kundal kumar 👋
-=======
-### hi, I'm kundal kumar 👋
->>>>>>> 7348c7ddce5a53219f48a881174e696c665000ed
+
+
 
  <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
